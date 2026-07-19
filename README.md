@@ -1,13 +1,13 @@
-# J. Alexander Bae — Personal Website
+# Donghyuk Lee — Personal Website
 
-A static, dependency-free recreation of an academic personal website, built to
-match the structure, typography, and layout of the reference design.
+A static, dependency-free personal academic website built to match a clean,
+typographic reference design.
 
 ## Pages
 
-- `index.html` — About (hero, bio, contact links, selected publications)
-- `publications.html` — Full list of publications grouped by year
-- `cv.html` — Curriculum Vitae (education, experience, honors & awards, contact)
+- `index.html` — About (hero, bio, contact links)
+- `publications.html` — Publications (coming soon)
+- `cv.html` — Curriculum Vitae (education, experience, contact)
 
 ## Design
 

@@ -243,6 +243,19 @@ img {
   color: hsl(var(--muted-foreground));
   line-height: 1.75;
 }
+.prose p + p {
+  margin-top: 1rem;
+}
+.prose a {
+  color: hsl(var(--foreground));
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: hsl(var(--border));
+  transition: text-decoration-color 0.2s ease;
+}
+.prose a:hover {
+  text-decoration-color: hsl(var(--primary));
+}
 
 /* -------------------- contact / social icons -------------------- */
 .social-row {
